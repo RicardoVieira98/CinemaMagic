@@ -1,0 +1,2 @@
+# CinemaMagic
+Projeto AI "CinemaMagic"
